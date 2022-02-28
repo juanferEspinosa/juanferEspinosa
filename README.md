@@ -8,6 +8,8 @@ Some of the areas within Machine Learning explored are:
 - Image classification
 - More to come
 
+Keep an eye to new uploads!
+
 <!---
 juanferEspinosa/juanferEspinosa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
